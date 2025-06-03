@@ -10,7 +10,7 @@ This repository contains a practical working sample in the field of cybersecurit
 
 ## 📁 Files Included
 
-- 'WORK_Sample_Cybersecurity_NIST' – English version of the full NIST-based analysis
+- 'Working_Sample_Cybersecurity_NIST' – English version of the full NIST-based analysis
 - 'Arbeitsprobe_Cybersecurity_NIST' – German version
 - 'glossary' – Embedded in each document for reference
 
