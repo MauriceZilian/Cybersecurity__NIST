@@ -1,20 +1,30 @@
-# 🔒 Analyse einer ICMP-Flood-Attacke gemäß NIST Cybersecurity Framework
+# 🔒 Working Sample: ICMP Flood Attack Analysis (NIST Cybersecurity Framework)
 
-Dieses Repository enthält eine strukturierte Cybersecurity-Arbeitsprobe. Ziel ist die Analyse und Reaktion auf eine simulierte DDoS-Attacke durch ICMP-Flooding unter Anwendung des NIST Cybersecurity Frameworks.
+This repository contains a practical working sample in the field of cybersecurity. It simulates a DDoS attack using ICMP packets and demonstrates structured incident handling based on the NIST Cybersecurity Framework.
 
----
+## 📘 About the Project
 
-## 📘 Inhalt
+- Scenario: Simulated ICMP flood attack disrupting internal network communication
+- Objective: Apply the five core NIST functions — Identify, Protect, Detect, Respond, Recover
+- Focus: Practical cybersecurity analysis using real-world methods
 
-- **🧠 Szenario:** ICMP-Flood-Angriff auf ein fiktives Unternehmensnetzwerk
-- **📊 Analyse:** Gliederung nach den fünf NIST-Funktionen (Identify – Protect – Detect – Respond –       Recover)
-- **🔧 Maßnahmen:** Firewall-Regeln, IDS/IPS, Netzwerksegmentierung, SIEM, Monitoring
-- **📘 Glossar:** Erklärung zentraler Begriffe aus der Cybersecurity
-- **📝 Hinweise:** Kontext der Übung und Eigenständigkeit
+## 📁 Files Included
 
----
+- 'WORK_Sample_Cybersecurity_NIST' – English version of the full NIST-based analysis
+- 'Arbeitsprobe_Cybersecurity_NIST' – German version
+- 'glossary' – Embedded in each document for reference
 
-## 🔍 Ziel
 
-Diese Arbeitsprobe wurde im Rahmen meiner Vorbereitung auf ein duales Studium im Bereich Informatik mit Schwerpunkt Cybersecurity erstellt. Sie zeigt meine Fähigkeit, technische Inhalte strukturiert darzustellen und praxisnahe Sicherheitsmaßnahmen zu analysieren.
+## 🛠️ Topics Covered
+
+- ICMP traffic analysis and rate limiting
+- Intrusion Detection Systems (e.g. Snort)
+- Access control and network segmentation
+- Real-time monitoring (SIEM)
+- Structured incident response and recovery planning
+
+## 📌 Purpose
+
+This project was created as part of my personal preparation for a dual study program in Computer Science with a focus on cybersecurity. It reflects my technical interest, structured thinking, and motivation to contribute to secure digital systems.
+
 
