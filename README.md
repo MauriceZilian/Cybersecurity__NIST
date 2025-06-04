@@ -37,9 +37,9 @@ Das Vorgehen folgt den fünf Kernfunktionen des NIST-Frameworks:
 
 ---
 
-## 📘 Working Sample in English
+## 📘 Work Sample in English
 
-This working sample was created as part of my preparation for a dual study program in Computer Science with a focus on cybersecurity.  
+This work sample was created as part of my preparation for a dual study program in Computer Science with a focus on cybersecurity.  
 It simulates an ICMP flood DDoS attack and demonstrates how to respond using the structure of the NIST Cybersecurity Framework.
 
 ### 🎯 Objective
@@ -55,8 +55,8 @@ The approach follows the five NIST framework functions:
 
 ### 📁 Files
 
-- [`Working Sample`](working_sample_NIST/working_sample_NIST.md) – Full analysis in English 
-- [`Glossary`](working_sample_NIST/glossary.md)  
+- [`Work Sample`](work_sample_NIST/work_sample_NIST.md) – Full analysis in English 
+- [`Glossary`](work_sample_NIST/glossary.md)  
 
 
 ### 🛠️ Key Topics Covered
