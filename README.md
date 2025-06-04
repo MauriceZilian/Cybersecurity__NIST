@@ -24,7 +24,7 @@ Das Vorgehen folgt den fünf Kernfunktionen des NIST-Frameworks:
 ### 📁 Dateien
 
 - [`Arbeitsprobe`](arbeitsprobe_NIST/arbeitsprobe_NIST.md) – Vollständige Analyse auf Deutsch  
-- [`Glossar`](arbeitsprobe_NIST/glossar.md) – Englische Version  
+- [`Glossar`](arbeitsprobe_NIST/glossar.md)
 
 
 ### 🛠️ Themenschwerpunkte
@@ -55,8 +55,8 @@ The approach follows the five NIST framework functions:
 
 ### 📁 Files
 
-- [`Working Sample`](working_sample_NIST/working_sample_NIST.md) – German version  
-- [`Glossary`](working_sample_NIST/glossary.md) – Full analysis in English  
+- [`Working Sample`](working_sample_NIST/working_sample_NIST.md) – Full analysis in English 
+- [`Glossary`](working_sample_NIST/glossary.md)  
 
 
 ### 🛠️ Key Topics Covered
