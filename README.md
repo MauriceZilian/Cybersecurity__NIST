@@ -23,7 +23,7 @@ Das Vorgehen folgt den fünf Kernfunktionen des NIST-Frameworks:
 
 ### 📁 Dateien
 
-- [`Arbeitsprobe`](arbeitsprobe_NIST.md) – Vollständige Analyse auf Deutsch  
+- [`Arbeitsprobe`](Cybersecurity__NIST/arbeitsprobe_NIST/arbeitsprobe_NIST.md) – Vollständige Analyse auf Deutsch  
 - [`Glossar`](glossar.md) – Englische Version  
 
 
