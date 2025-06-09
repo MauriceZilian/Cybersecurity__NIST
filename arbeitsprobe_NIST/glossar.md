@@ -10,8 +10,7 @@ Ein koordinierter Angriff auf ein IT-System, bei dem es durch massenhafte Anfrag
 ---
 
 ### 📶 ICMP (Internet Control Message Protocol)
-Ein Netzwerkprotokoll zur Übertragung von Diagnose- und Fehlermeldungen. Es wird häufig für Ping-Anfragen genutzt – kann jedoch auch missbraucht werden, etwa bei Flood-Angriffen zur Überlastung eines Netzwerks.
-
+Ein Netzwerkprotokoll zur Übertragung von Diagnose- und Fehlermeldungen. Es wird häufig für Ping-Anfragen genutzt, kann jedoch auch bei Flood-Angriffen zur Überlastung eines Netzwerks missbraucht werden.
 ---
 
 ### 🔥 Firewall-Regel (Rate Limiting)
