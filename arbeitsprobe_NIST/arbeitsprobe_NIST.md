@@ -1,7 +1,7 @@
 # 🔒 Arbeitsprobe: Analyse und Reaktion auf eine simulierte ICMP-Flood-Attacke gemäß NIST-Framework
 
 ## 📘 Szenario
-Im Rahmen einer Übung zur Anwendung des NIST Cybersecurity Frameworks wurde bei einem fiktiven Unternehmen eine Sicherheitsstörung simuliert. Die interne Netzwerkkommunikation kam plötzlich vollständig zum Erliegen. Die Analyse ergab, dass der Vorfall durch eine Flood-Attacke mit ICMP-Paketen verursacht wurde – eine typische Form eines DDoS-Angriffs, bei der durch massenhafte, manipulierte Anfragen die Netzwerkressourcen überlastet werden.
+Im Rahmen einer Übung zur Anwendung des NIST Cybersecurity Frameworks wurde bei einem fiktiven Unternehmen eine Sicherheitsstörung simuliert. Die interne Netzwerkkommunikation kam plötzlich vollständig zum Erliegen. Die Analyse ergab, dass der Vorfall durch eine Flood-Attacke mit ICMP-Paketen verursacht wurde. Dies ist eine typische Form eines DDoS-Angriffs, bei der durch massenhafte, manipulierte Anfragen die Netzwerkressourcen überlastet werden.
 
 ---
 
@@ -51,4 +51,4 @@ Die Wiederherstellung erfolgte stufenweise:
 
 
 ## 📝 Hinweise
-Diese Übung wurde im Rahmen meiner persönlichen Vorbereitung auf ein duales Studium im Bereich Informatik durchgeführt. Alle Inhalte und Szenarien wurden eigenständig entwickelt und sind frei formuliert. Sie dienen der praktischen Anwendung von Cybersecurity-Wissen und zeigen meine Fähigkeit, strukturierte Sicherheitsanalysen durchzuführen.
+Diese Übung wurde im Rahmen meiner persönlichen Vorbereitung auf ein duales Studium im Bereich Informatik durchgeführt. Sie dient der praktischen Anwendung von Cybersecurity-Wissen und zeigen meine Fähigkeit, strukturierte Sicherheitsanalysen durchzuführen.
