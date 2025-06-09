@@ -6,7 +6,7 @@ This repository contains a practical cybersecurity work sample. It simulates a s
 
 ## 📘 Scenario
 
-As part of an exercise to apply the NIST Cybersecurity Framework, a security incident was simulated at a fictional company. Internal network communication suddenly came to a complete halt. Analysis revealed the cause to be a flood attack using ICMP packets – a classic form of Distributed Denial-of-Service (DDoS) attack in which massive, manipulated requests overload network resources.
+As part of an exercise to apply the NIST Cybersecurity Framework, a security incident was simulated at a fictional company. Internal network communication suddenly came to a complete halt. Analysis revealed the cause to be a flood attack using ICMP packets. This is a classic form of Distributed Denial-of-Service (DDoS) attack in which massive, manipulated requests overload network resources.
 
 ---
 
@@ -67,5 +67,5 @@ The recovery phase was carried out in stages:
 
 ## 📝 Note
 
-This work sample was created independently as part of my preparation for a dual study program in Computer Science with a focus on cybersecurity. The scenario and content were developed from scratch and serve to demonstrate my ability to conduct structured security analyses using real-world methods.
+This work sample was created as part of my preparation for a dual study program in Computer Science with a focus on cybersecurity. It serves to demonstrate my ability to conduct structured security analyses.
 
