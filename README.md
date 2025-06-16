@@ -67,8 +67,4 @@ The approach follows the five NIST framework functions:
 - Real-time monitoring using SIEM  
 - Incident response and recovery planning
 
----
-
-📌 **Purpose**  
-This project demonstrates my technical interest, structured mindset, and motivation to contribute to secure digital environments.
 
